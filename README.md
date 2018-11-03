@@ -3,10 +3,14 @@ WinSCP client with Java
 
 ## Download WinSCP First
 
-Please download WinSCP [ Portable executables ] from:
+Please download WinSCP [**Portable executables**] from:
 https://winscp.net/eng/downloads.php
 
 Then extract the downloaded file to src/main/resources/winscp
+
+## Use This Client
+
+Use `com.my.project.winscp.WinSCPClient` class in your source code which include all supported operations for FTP/SFTP
 
 ## WinSCP Model Generate
 
