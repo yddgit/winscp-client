@@ -1,0 +1,4 @@
+Please download WinSCP [ Portable executables ] from:
+https://winscp.net/eng/downloads.php
+
+Then extract the downloaded file to here
